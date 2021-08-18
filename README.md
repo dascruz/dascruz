@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dsanchezlc
 - 👀 I’m interested in security and blockchain technology!
-- 🌱 I’m currently learning the basics of computer science.
+- 🌱 I’m currently majoring in Computer Science and Business Administration
 
 <!---
 dsanchezlc/dsanchezlc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
