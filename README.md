@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dsanchezlc
-- 👀 I’m interested in security and blockchain technology!
+- 👀 I’m interested in web and game development!
 - 🌱 I’m currently majoring in Computer Science & Engineering and Business Administration
 
 <!---
