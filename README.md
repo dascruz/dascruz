@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dascruz
-- 👀 I’m interested in web and game development, as well as blockchain techonology and IT security!
+- 👀 I’m interested in web development, as well as blockchain techonology and IT security!
 - 🌱 I’m currently majoring in Computer Science & Engineering and Business Administration
 
 <!---
