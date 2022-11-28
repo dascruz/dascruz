@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **NestJS, MongoDB and pandas**
 
-- 💬 Ask me about **Arch Linux**
-
-- 📫 How to reach me **https://linkedin.com/in/dascruz**
+- 💬 Interested in back end engineering, as well as data science and AI!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
