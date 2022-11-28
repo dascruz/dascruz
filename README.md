@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dascruz
-- 👀 I’m interested in web development, as well as blockchain techonology and IT security!
-- 🌱 I’m currently majoring in Computer Science & Engineering and Business Administration
+- 👀 Interested in back end engineering, as well as data science and AI!
+- 🌱 Currently majoring in Computer Science and Business Administration
 
 <!---
 dsanchezlc/dsanchezlc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
