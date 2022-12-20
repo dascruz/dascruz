@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Daniel Sánchez de la Cruz</h1>
+<h1 align="center">Hi 👋, I'm Daniel Sánchez</h1>
 <h3 align="center">A passionate Computer Science & Business Administration student at Universidad Carlos III de Madrid with a focus on learning how to build and design products with great user experience through well-structured, quality code.</h3>
 
-- 🌱 I’m currently learning **NestJS, MongoDB and pandas**
+- 🌱 I’m currently learning **PyTorch, MongoDB and pandas**
 
-- 💬 Interested in back end engineering, as well as data science and AI!
+- 💬 Interested in back end engineering, as well as machine learning and AI!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
