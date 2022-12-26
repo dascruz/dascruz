@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Sánchez</h1>
-<h3 align="center">Building machine learning solutions that address important problems in the world</h3>
+<h3 align="center">Solving problems through deep learning</h3>
 
 - 🌱 I’m currently going through **Practical Deep Learning** course.
 
