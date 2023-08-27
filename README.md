@@ -1,11 +1,11 @@
 <h1 align="center">Hi! 👋, I'm Daniel Sánchez</h1>
-<h3 align="center">I build things for the web</h3>
+<h3 align="center">I build cool things</h3>
 
-- 🌱 I’m currently going through the **Three.js Journey** course.
+- 🌱 I’m currently doing an exchange in the **University of Waterloo**.
 
-- 💬 Interested in back-end and data engineering, as well as machine learning and AI!
+- 💬 Interested in back-end. systems and data engineering, as well as machine learning and AI!
 
-- 🪐 I build cool 3D websites in my free time, check them out =)
+- 🪐 On the **process** of building something big =)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
