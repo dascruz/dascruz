@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently doing an exchange in the **University of Waterloo**.
 
-- 💬 Interested in back-end. systems and data engineering, as well as machine learning and AI!
+- 💬 Interested in back-end systems and software engineering, as well as machine learning and AI!
 
 - 🪐 On the **process** of building something big =)
 
