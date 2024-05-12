@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋, I'm Daniel Sánchez</h1>
 <h3 align="center">I build cool things</h3>
 
-- 🌱 I’m currently doing an exchange in the **University of Waterloo**.
+- 🌱 I just finished my exchange year in the **University of Waterloo**.
 
 - 💬 Interested in back-end systems and software engineering, as well as machine learning and AI!
 
